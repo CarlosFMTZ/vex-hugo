@@ -3,16 +3,16 @@ disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
-title = "Vex | hugo landing page template"
+title = "Pagina Demo Smart Domain"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Diseñado por [Smart Domain](https://smartdomain.com.mx/) & Desarrollado Por [Carlos DEV](https://www.instagram.com/carloslm24/)"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Diseñado por [Smart Domain](https://smartdomain.com.mx/) & Desarrollado Por [Carlos DEV](https://www.instagram.com/carloslm24/)"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
@@ -23,23 +23,23 @@ name = "Blog"
 url = "blog"
 weight = 1
 [[menu.footer]]
-name = "Contact"
+name = "Contacto"
 url = "contact"
 weight = 2
 [[menu.footer]]
-name = "Terms & Conditions"
+name = "Terminos y Condiciones"
 url = "terms-conditions"
 weight = 3
 [[menu.footer]]
-name = "Privacy Policy"
+name = "Politica de privacidad"
 url = "privacy-policy"
 weight = 4
 [[menu.main]]
-name = "Home"
+name = "Inicio"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Products"
+name = "Productos"
 url = "products"
 weight = 2
 [[menu.main]]
@@ -47,7 +47,7 @@ name = "Blog"
 url = "blog"
 weight = 3
 [[menu.main]]
-name = "Review"
+name = "Testimonios"
 pre = "#"
 url = "testimonial"
 weight = 4
@@ -56,11 +56,11 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
-author = "Themefisher"
+author = "Carlos Dev"
 contact_form_action = "#"
 currency = "$"
 description = "This is meta description"
-logo = "images/logo.png"
+logo = "images/logo-azul.png"
 logo_width = "100px"
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 [[params.plugins.css]]
