@@ -52,7 +52,7 @@ pre = "#"
 url = "testimonial"
 weight = 4
 [[menu.main]]
-name = "Contact"
+name = "Contacto"
 url = "contact"
 weight = 5
 [params]
